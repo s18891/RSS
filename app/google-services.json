@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788142117829",
+    "project_id": "rssprm-8abd5",
+    "storage_bucket": "rssprm-8abd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788142117829:android:e08aaedf4f3fb623b7b1ac",
+        "android_client_info": {
+          "package_name": "com.pjatk.rss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788142117829-p8ghfmgslpidf1p88md7s6t3rfp5dcbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97_r-b9iM2ACXIq7Qn0enoX1MEamkxhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788142117829-p8ghfmgslpidf1p88md7s6t3rfp5dcbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
